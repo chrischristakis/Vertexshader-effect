@@ -1,5 +1,5 @@
 # Vertexshader-effect
-Testing different vertex shader effects on a triangle strip grid using OpenGL/LWJGL
+Testing different vertex shader effects on a triangle strip grid using OpenGL/LWJGL to interface with the GPU
 ## Demonstration:
 <img src="Capture.PNG" width="700"></img>
 ## Notes:
